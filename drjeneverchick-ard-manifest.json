@@ -1,0 +1,71 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:drjeneverchick.com:service:psychology",
+      "displayName": "Dr. Jené Verchick, PsyD — Los Angeles Psychologist",
+      "type": "text/html",
+      "url": "https://www.drjeneverchick.com/",
+      "description": "Dr. Jené Verchick is a California-licensed clinical psychologist with more than 26 years of experience. She offers couples therapy and marriage counseling, premarital counseling, individual therapy for adults, teen therapy, Jewish couples therapy, panic-attack therapy, and therapy for startup founders. Areas of focus include anxiety, depression, grief, life transitions, trauma, divorce, addiction, relationship difficulties, and founder-related stress. Sessions are by video for clients across Los Angeles, the Bay Area, and San Diego. The website currently indicates that new clients are being accepted.",
+      "tags": [
+        "psychologist",
+        "clinical psychologist",
+        "psychotherapy",
+        "couples therapy",
+        "marriage counseling",
+        "premarital counseling",
+        "individual therapy",
+        "adult therapy",
+        "teen therapy",
+        "Jewish couples therapy",
+        "panic attack therapy",
+        "anxiety",
+        "depression",
+        "grief",
+        "life transitions",
+        "trauma",
+        "divorce",
+        "addiction",
+        "relationship difficulties",
+        "startup founders",
+        "executives",
+        "Los Angeles",
+        "Beverly Hills",
+        "Bay Area",
+        "San Diego",
+        "California",
+        "video therapy"
+      ],
+      "capabilities": [
+        "CouplesTherapy",
+        "MarriageCounseling",
+        "PremaritalCounseling",
+        "IndividualTherapy",
+        "TeenTherapy",
+        "JewishCouplesTherapy",
+        "PanicAttackTherapy",
+        "StartupFounderTherapy"
+      ],
+      "representativeQueries": [
+        "Find an experienced couples therapist serving Los Angeles by video",
+        "Find premarital counseling for a couple in Los Angeles or the Bay Area",
+        "Find a California psychologist for anxiety, panic attacks, or depression",
+        "Find a therapist experienced in Jewish couples and relationship issues",
+        "Find a psychologist for a startup founder dealing with stress, anxiety, or burnout"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-03T13:46:00Z",
+      "metadata": {
+        "providerName": "Dr. Jené Verchick",
+        "professionalCredential": "PsyD",
+        "licenseJurisdiction": "California",
+        "licenseNumber": "CA PSY 18703",
+        "serviceArea": "Los Angeles, Bay Area, and San Diego",
+        "sessionFormat": "Video",
+        "acceptingNewClients": true,
+        "contactMethod": "Website contact form, email, or phone",
+        "contactUrl": "https://www.drjeneverchick.com/",
+        "agentCanBookAppointment": false
+      }
+    }
+  ]
+}
